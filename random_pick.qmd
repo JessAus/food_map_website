@@ -1,12 +1,14 @@
 ---
-title: "Help Me Choose!"
 toc: false
 ---
+
+::: {.column-page}
+# Help Me Choose!
 
 ::: {.callout-tip}
 OJS Error messages will appear if no selections have been made. Please ignore these messages, as they will disappear when you make your selection(s) below. ☺
 
-The randomly selected location will  update as you update your "Type of Food" selections.
+The randomly selected location will  update reactively every time you update your "Type of Food" selection(s).
 :::
 
 ```{ojs}
@@ -46,4 +48,4 @@ return filtered[randomIndex].location
 `${pick}`
 ```
 
-
+:::

@@ -8,14 +8,15 @@ website:
       - href: index.qmd
         text: Home
       - href: journal.qmd
-        text: Details
+        text: Gallery
       - href: random_pick.qmd
         text: Help Me!
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: style.css
     toc: true
 

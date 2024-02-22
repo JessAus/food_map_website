@@ -12,6 +12,10 @@ This website provides a few utilities to the user:
 2.  You may also visit the blog page where my favorite dishes are listed for each restaurant.
 3.  You may view the restaurants in a more tabular format where you can filter each of the columns by type of food, price range, street/shopping center, and/or rating (as rated by yours truly).
 
+## Affiliation(s)
+
+I do not profit from any of the restaurants listed on this website and I have no financial ties to these establishments. I simply frequent these restaurants because I like their food.
+
 ## TL;DR
 
 I am an indecisive data scientist who decided it would be easier to make a website than it would be to actually make a decision on what I should eat for dinner.

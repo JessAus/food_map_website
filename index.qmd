@@ -13,6 +13,10 @@ source("~/pick_restaurant_site/scripts/02_make_table.R")
 ::: {.column-page}
 # DFW Favorites
 
+The map below displays my top picks for restaurants across the DFW metroplex. As you can probably tell, I haven't explored Dallas nearly enough, but I plan to add more locations to this website as time goes on.
+
+Below the map, you will find a table which lists more details about each of the locations featured in the map section.
+
 ### Map
 ```{r Map, echo=FALSE}
 map

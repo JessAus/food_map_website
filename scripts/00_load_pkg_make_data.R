@@ -45,9 +45,9 @@ df <- tibble::tribble(~location, ~longitude, ~latitude, ~rating, ~price_range, ~
                       "Gustos Burgers", -97.34171, 32.730832, 7, "$$", "Burgers", "Downtown Fort Worth",
                       "Aw Shucks", -96.770333, 32.831017, 8, "$$$", "Seafood", "Greenview - Dallas",
                       "Revolver Taco Lounge", -96.784666, 32.784277, 9, "$$$", "Mexican/Latin", "Deep Ellum - Dallas",
-                      "Main Squeeze", -97.28691, 32.914112, 7, "$$", "Drinks", "Heritage Trace - Fort Worth")
+                      "Main Squeeze", -97.28691, 32.914112, 7, "$$", "Drinks", "Heritage Trace - Fort Worth",
+                      "Ari Korean BBQ", -96.694014, 33.066918, 7, "$$$", "Asian", "Legacy Dr - Plano")
 
 
 # 3. Rename df -----------------------------------------------------------------
 map_data = df
-
