@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+## About Me
+
+Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto.
+
+## About Website
+
+I created this website as a fun personal project to practice using the R Leaflet package for visualizing geographic data. As an added benefit, I hoped that this website could help me dodge arguments with my fiancé regarding what we will eat for dinner.
+
+This website provides a few utilities to the user:
+
+1.  You are able to view a map of some of my favorite restaurants across DFW, which is color coded by the type of food.
+2.  You may also visit the blog page where my favorite dishes are listed for each restaurant.
+3.  You may view the restaurants in a more tabular format where you can filter each of the columns by type of food, price range, street/shopping center, and/or rating (as rated by yours truly).
+
+## TL;DR
+
+I am an indecisive data scientist who decided it would be easier to make a website than it would be to actually make a decision on what I should eat for dinner.

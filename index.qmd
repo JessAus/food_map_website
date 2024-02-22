@@ -1,0 +1,29 @@
+---
+css: style.css
+---
+
+```{r Load script, echo=FALSE}
+source("~/pick_restaurant_site/scripts/00_load_pkg_make_data.R")
+
+source("~/pick_restaurant_site/scripts/01_make_map.R")
+
+source("~/pick_restaurant_site/scripts/02_make_table.R")
+```
+
+::: {.column-page}
+# DFW Favorites
+
+### Map
+```{r Map, echo=FALSE}
+map
+```
+
+
+</br>
+</br>
+
+### Table
+```{r Table, echo=FALSE}
+table
+```
+:::

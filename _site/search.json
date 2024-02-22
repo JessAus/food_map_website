@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Sweet Pork Burrito, Chips & Queso\n\n\n\n\n\n\n\n\nFavorite Dish(es): Thai Basil Chicken, Pad Thai, Taro Boba Smoothie\n\n\n\n\n\n\n\n\nFavorite Dish(es): Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice\n\n\n\n\n\n\n\n\nFavorite Dish(es): Sassy Scotty, Fancy Nancy\n\n\n\n\n\n\n\n\nFavorite Dish(es): BBQ Wings\n\n\n\n\n\n\n\n\nFavorite Dish(es): Butter Chicken, Lamb Tikka Masala\n\n\n\n\n\n\n\n\nFavorite Dish(es): Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream\n\n\n\n\n\n\n\n\nFavorite Dish(es): 30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Jalapeño Kolaches, Custard Filled Donuts, Donut Holes\n\n\n\n\n\n\n\n\nFavorite Dish(es): BBQ Ranch Wrap/Salad (w/ Sweet Potatoes), Cold Brew, Blueberry Basil Lemonade\n\n\n\n\n\n\n\n\nFavorite Dish(es): Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Half Chicken (Extra Rice)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Honey Bastard, Burrata & Cherries\n\n\n\n\n\n\n\n\nFavorite Dish(es): Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains\n\n\n\n\n\n\n\n\nFavorite Dish(es): Chicken Mole, Sopapillas\n\n\n\n\n\n\n\n\nFavorite Dish(es): Pastor Tacos\n\n\n\n\n\n\n\n\nFavorite Dish(es): Fresh Juices, Market Hash\n\n\n\n\n\n\n\n\nFavorite Dish(es): Stir Fry (DIY)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Bison Burger\n\n\n\n\n\n\n\n\nFavorite Dish(es): Holy Shitake\n\n\n\n\n\n\n\n\nFavorite Dish(es): Louisiana Roll, Happy Roll\n\n\n\n\n\n\n\n\nFavorite Dish(es): Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll\n\n\n\n\n\n\n\n\nFavorite Dish(es): Tiramisu\n\n\n\n\n\n\n\n\nFavorite Dish(es): Hot Chick\n\n\n\n\n\n\n\n\nFavorite Dish(es): Green Curry, Duck Basil\n\n\n\n\n\n\n\n\nFavorite Dish(es): (Haven’t Been Here Yet - Was Recommended)\n\n\n\n\n\n\n\n\nFavorite Dish(es): Crab Legs\n\n\n\n\n\n\n\n\nFavorite Dish(es): Lengua Tacos, Al Pastor Tacos"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DFW Favorites",
+    "section": "",
+    "text": "DFW Favorites\n\nMap\n\n\n\n\n\n\n \n\n\nTable"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto."
+  },
+  {
+    "objectID": "about.html#about-website",
+    "href": "about.html#about-website",
+    "title": "About",
+    "section": "About Website",
+    "text": "About Website\nI created this website as a fun personal project to practice using the R Leaflet package for visualizing geographic data. As an added benefit, I hoped that this website could help me dodge arguments with my fiancé regarding what we will eat for dinner.\nThis website provides a few utilities to the user:\n\nYou are able to view a map of some of my favorite restaurants across DFW, which is color coded by the type of food.\nYou may also visit the blog page where my favorite dishes are listed for each restaurant.\nYou may view the restaurants in a more tabular format where you can filter each of the columns by type of food, price range, street/shopping center, and/or rating (as rated by yours truly)."
+  },
+  {
+    "objectID": "about.html#tldr",
+    "href": "about.html#tldr",
+    "title": "About",
+    "section": "TL;DR",
+    "text": "TL;DR\nI am an indecisive data scientist who decided it would be easier to make a website than it would be to actually make a decision on what I should eat for dinner."
+  },
+  {
+    "objectID": "journal.html#costa-vida",
+    "href": "journal.html#costa-vida",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Sweet Pork Burrito, Chips & Queso"
+  },
+  {
+    "objectID": "journal.html#hongthong-cafe",
+    "href": "journal.html#hongthong-cafe",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Thai Basil Chicken, Pad Thai, Taro Boba Smoothie"
+  },
+  {
+    "objectID": "journal.html#pho-thien",
+    "href": "journal.html#pho-thien",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice"
+  },
+  {
+    "objectID": "journal.html#chicken-salad-chick",
+    "href": "journal.html#chicken-salad-chick",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Sassy Scotty, Fancy Nancy"
+  },
+  {
+    "objectID": "journal.html#slim-chicken",
+    "href": "journal.html#slim-chicken",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): BBQ Wings"
+  },
+  {
+    "objectID": "journal.html#swad",
+    "href": "journal.html#swad",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Butter Chicken, Lamb Tikka Masala"
+  },
+  {
+    "objectID": "journal.html#jersey-mikes",
+    "href": "journal.html#jersey-mikes",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo)"
+  },
+  {
+    "objectID": "journal.html#taste-of-thai",
+    "href": "journal.html#taste-of-thai",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream"
+  },
+  {
+    "objectID": "journal.html#chick-fil-a",
+    "href": "journal.html#chick-fil-a",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): 30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon)"
+  },
+  {
+    "objectID": "journal.html#tiger-donuts",
+    "href": "journal.html#tiger-donuts",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Jalapeño Kolaches, Custard Filled Donuts, Donut Holes"
+  },
+  {
+    "objectID": "journal.html#salad-go",
+    "href": "journal.html#salad-go",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): BBQ Ranch Wrap/Salad (w/ Sweet Potatoes), Cold Brew, Blueberry Basil Lemonade"
+  },
+  {
+    "objectID": "journal.html#taste-of-asia",
+    "href": "journal.html#taste-of-asia",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side)"
+  },
+  {
+    "objectID": "journal.html#pollo-regio",
+    "href": "journal.html#pollo-regio",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Half Chicken (Extra Rice)"
+  },
+  {
+    "objectID": "journal.html#cane-rosso",
+    "href": "journal.html#cane-rosso",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Honey Bastard, Burrata & Cherries"
+  },
+  {
+    "objectID": "journal.html#boca-31",
+    "href": "journal.html#boca-31",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains"
+  },
+  {
+    "objectID": "journal.html#los-molcajetes",
+    "href": "journal.html#los-molcajetes",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Chicken Mole, Sopapillas"
+  },
+  {
+    "objectID": "journal.html#docs-food-store",
+    "href": "journal.html#docs-food-store",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Pastor Tacos"
+  },
+  {
+    "objectID": "journal.html#first-watch",
+    "href": "journal.html#first-watch",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Fresh Juices, Market Hash"
+  },
+  {
+    "objectID": "journal.html#chans-mongolian-grill",
+    "href": "journal.html#chans-mongolian-grill",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Stir Fry (DIY)"
+  },
+  {
+    "objectID": "journal.html#twisted-root-burgers",
+    "href": "journal.html#twisted-root-burgers",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Bison Burger"
+  },
+  {
+    "objectID": "journal.html#mellow-mushroom",
+    "href": "journal.html#mellow-mushroom",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Holy Shitake"
+  },
+  {
+    "objectID": "journal.html#hk-sushi",
+    "href": "journal.html#hk-sushi",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Louisiana Roll, Happy Roll"
+  },
+  {
+    "objectID": "journal.html#itoko-sushi-ramen",
+    "href": "journal.html#itoko-sushi-ramen",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll"
+  },
+  {
+    "objectID": "journal.html#calabrese",
+    "href": "journal.html#calabrese",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Tiramisu"
+  },
+  {
+    "objectID": "journal.html#bosses-pizza",
+    "href": "journal.html#bosses-pizza",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Hot Chick"
+  },
+  {
+    "objectID": "journal.html#koracha",
+    "href": "journal.html#koracha",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Green Curry, Duck Basil"
+  },
+  {
+    "objectID": "journal.html#gustos-burgers",
+    "href": "journal.html#gustos-burgers",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): (Haven’t Been Here Yet - Was Recommended)"
+  },
+  {
+    "objectID": "journal.html#aw-shucks",
+    "href": "journal.html#aw-shucks",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Crab Legs"
+  },
+  {
+    "objectID": "journal.html#revolver-taco-lounge",
+    "href": "journal.html#revolver-taco-lounge",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Lengua Tacos, Al Pastor Tacos"
+  },
+  {
+    "objectID": "journal.html#melt",
+    "href": "journal.html#melt",
+    "title": "Journal",
+    "section": "Melt",
+    "text": "Melt\n\n\n\n\n\nFavorite Dish(es): Dark Chocolate, Peanut Butter Explosion"
+  },
+  {
+    "objectID": "journal.html#guanajuato-bakery",
+    "href": "journal.html#guanajuato-bakery",
+    "title": "Journal",
+    "section": "Guanajuato Bakery",
+    "text": "Guanajuato Bakery\n\n\n\n\n\nFavorite Dish(es): Pumpkin Empanadas, Conchas, Shortbread"
+  },
+  {
+    "objectID": "journal.html#las-delicias-de-michoacan",
+    "href": "journal.html#las-delicias-de-michoacan",
+    "title": "Journal",
+    "section": "Las Delicias de Michoacan",
+    "text": "Las Delicias de Michoacan\n\n\n\n\n\nFavorite Dish(es): Fresas con Crema, Mangonada"
+  },
+  {
+    "objectID": "journal.html#the-cheesecake-factory",
+    "href": "journal.html#the-cheesecake-factory",
+    "title": "Journal",
+    "section": "The Cheesecake Factory",
+    "text": "The Cheesecake Factory\n\n\n\n\n\nFavorite Dish(es): Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake"
+  },
+  {
+    "objectID": "journal.html#swig",
+    "href": "journal.html#swig",
+    "title": "Journal",
+    "section": "Swig",
+    "text": "Swig\n\n\n\n\n\nFavorite Dish(es): Polar Punch (w/ Strawberry Puree & Boba)"
+  },
+  {
+    "objectID": "journal.html#race-street-coffee",
+    "href": "journal.html#race-street-coffee",
+    "title": "Journal",
+    "section": "Race Street Coffee",
+    "text": "Race Street Coffee\n\n\n\n\n\nFavorite Dish(es): Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk)"
+  },
+  {
+    "objectID": "journal.html#main-squeeze",
+    "href": "journal.html#main-squeeze",
+    "title": "Journal",
+    "section": "Main Squeeze",
+    "text": "Main Squeeze\n\n\n\n\n\nFavorite Dish(es): Vision, Youth, Alive, Protein Punch (w/ Blue Majik)"
+  },
+  {
+    "objectID": "journal.html#pho-thien-y",
+    "href": "journal.html#pho-thien-y",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice"
+  },
+  {
+    "objectID": "journal.html#tiger-donut",
+    "href": "journal.html#tiger-donut",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Jalapeño Kolaches, Custard Filled Donuts, Donut Holes"
+  },
+  {
+    "objectID": "journal.html#twisted-root-burger-company",
+    "href": "journal.html#twisted-root-burger-company",
+    "title": "Journal",
+    "section": "",
+    "text": "Favorite Dish(es): Bison Burger"
+  }
+]

@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "What Will We Eat?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: journal.qmd
+        text: Details
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+
+editor: visual
+

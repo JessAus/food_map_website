@@ -1,0 +1,227 @@
+---
+title: "Journal"
+---
+
+#### This is great... but either add more information under each section and standardize the size of images OR make it a gallery with info in the image description
+
+# Food
+
+## Costa Vida
+
+![](www/costa_vida.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Sweet Pork Burrito, Chips & Queso
+
+## Hongthong Cafe
+
+![](www/hongthong.jpeg){fig-align="center"}
+
+**Favorite Dish(es):** Thai Basil Chicken, Pad Thai, Taro Boba Smoothie
+
+## Pho Thien Y
+
+![](www/pho_thien.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice
+
+## Chicken Salad Chick
+
+![](www/chicken_salad_chick.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Sassy Scotty, Fancy Nancy
+
+## Slim Chicken
+
+![](www/slim_chicken.jpg){fig-align="center"}
+
+**Favorite Dish(es):** BBQ Wings
+
+## SWAD
+
+![](www/SWAD.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Butter Chicken, Lamb Tikka Masala
+
+## Jersey Mike's
+
+![](www/jersey_mike.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo)
+
+## Taste of Thai
+
+![](www/taste_of_thai.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream
+
+## Chick-Fil-A
+
+![](www/chick_fil_a.jpg){fig-align="center"}
+
+**Favorite Dish(es):** 30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon)
+
+## Tiger Donut
+
+![](www/tiger_donut.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Jalapeño Kolaches, Custard Filled Donuts, Donut Holes
+
+## Salad & Go
+
+![](www/salad_and_go.jpg){fig-align="center"}
+
+**Favorite Dish(es):** BBQ Ranch Wrap/Salad (w/ Sweet Potatoes), Cold Brew, Blueberry Basil Lemonade
+
+## Taste of Asia
+
+![](www/taste_of_asia.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side)
+
+## Pollo Regio
+
+![](www/pollo_regio.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Half Chicken (Extra Rice)
+
+## Cane Rosso
+
+![](www/cane_rosso.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Honey Bastard, Burrata & Cherries
+
+## Boca 31
+
+![](www/boca_31.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains
+
+## Los Molcajetes
+
+![](www/los_molcajetes.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Chicken Mole, Sopapillas
+
+## Doc's Food Store
+
+![](www/docs.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Pastor Tacos
+
+## First Watch
+
+![](www/first_watch.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Fresh Juices, Market Hash
+
+## Chan's Mongolian Grill
+
+![](www/chans.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Stir Fry (DIY)
+
+## Twisted Root Burger Company
+
+![](www/twisted_root.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Bison Burger
+
+## Mellow Mushroom
+
+![](www/mellow_mushroom.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Holy Shitake
+
+## HK Sushi
+
+![](www/hk.JPG){fig-align="center"}
+
+**Favorite Dish(es):** Louisiana Roll, Happy Roll
+
+## Itoko Sushi & Ramen
+
+![](www/itoko.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll
+
+## Calabrese
+
+![](www/calabrese.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Tiramisu
+
+## Bosses Pizza
+
+![](www/bosses.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Hot Chick
+
+## Koracha
+
+![](www/koracha.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Green Curry, Duck Basil
+
+## Gustos Burgers
+
+![](www/gustos.jpg){fig-align="center"}
+
+**Favorite Dish(es):** (Haven't Been Here Yet - Was Recommended)
+
+## Aw Shucks
+
+![](www/aw_shucks.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Crab Legs
+
+## Revolver Taco Lounge
+
+![](www/revolver_taco.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Lengua Tacos, Al Pastor Tacos
+
+# Desserts
+
+## Melt
+
+![](www/melt.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Dark Chocolate, Peanut Butter Explosion
+
+## Guanajuato Bakery
+
+![](www/guana_bakery.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Pumpkin Empanadas, Conchas, Shortbread
+
+## Las Delicias de Michoacan
+
+![](www/las_delicias.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Fresas con Crema, Mangonada
+
+## The Cheesecake Factory
+
+![](www/cheesecake.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake
+
+# Drinks
+
+## Swig
+
+![](www/swig.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Polar Punch (w/ Strawberry Puree & Boba)
+
+## Race Street Coffee
+
+![](www/race_street.jpg){fig-align="center"}
+
+**Favorite Dish(es):** Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk)
+
+## Main Squeeze
+
+![](www/main_squeeze.png){fig-align="center"}
+
+**Favorite Dish(es):** Vision, Youth, Alive, Protein Punch (w/ Blue Majik)
