@@ -15,7 +15,7 @@ table <- df %>%
   ) %>%
   datatable(options = list(initComplete = JS(
     "function(settings, json) {",
-    "$(this.api().table().header()).css({'background-color': 'RGB(205, 180, 219, 0.8)', 'color': '#000000'});",
+    "$(this.api().table().header()).css({'background-color': 'RGB(26, 26, 26)', 'color': '#989898'});",
     "}"
   )),
   class = 'stripe',
