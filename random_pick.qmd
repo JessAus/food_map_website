@@ -1,0 +1,49 @@
+---
+title: "Help Me Choose!"
+toc: false
+---
+
+::: {.callout-tip}
+OJS Error messages will appear if no selections have been made. Please ignore these messages, as they will disappear when you make your selection(s) below. ☺
+
+The randomly selected location will  update as you update your "Type of Food" selections.
+:::
+
+```{ojs}
+//| echo: false
+data = FileAttachment("data/data_use.csv").csv({typed: true})
+```
+
+```{ojs}
+//| echo: false
+viewof food_type = Inputs.checkbox(
+["Mexican/Latin", "Asian", "Chicken",
+  "Indian", "Deli", "Drinks", "Pizza/Italian", "Dessert", "Burgers",
+  "Seafood"],
+  {
+  label: "Type of Food:"
+}
+)
+```
+
+</br>
+
+### You should eat at:
+
+```{ojs}
+//| echo: false
+//| error: false
+filtered = data.filter(function(food) {
+return food_type.includes(food.type);
+})
+
+randomIndex = Math.floor(Math.random() * filtered.length)
+
+pick = {
+return filtered[randomIndex].location
+}
+
+`${pick}`
+```
+
+

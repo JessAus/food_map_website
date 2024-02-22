@@ -9,6 +9,8 @@ website:
         text: Home
       - href: journal.qmd
         text: Details
+      - href: random_pick.qmd
+        text: Help Me!
       - about.qmd
 
 format:
