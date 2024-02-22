@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "What Will We Eat?"
+  title: "What's For Dinner?"
   navbar:
     left:
       - href: index.qmd

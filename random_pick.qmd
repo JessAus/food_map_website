@@ -1,5 +1,6 @@
 ---
 toc: false
+echo: false
 ---
 
 ::: {.column-page}
@@ -33,8 +34,7 @@ viewof food_type = Inputs.checkbox(
 ### You should eat at:
 
 ```{ojs}
-//| echo: false
-//| error: false
+
 filtered = data.filter(function(food) {
 return food_type.includes(food.type);
 })
@@ -46,6 +46,7 @@ return filtered[randomIndex].location
 }
 
 `${pick}`
+
 ```
 
 :::

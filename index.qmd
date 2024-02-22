@@ -17,6 +17,8 @@ The map below displays my top picks for restaurants across the DFW metroplex. As
 
 Below the map, you will find a table which lists more details about each of the locations featured in the map section.
 
+</br>
+
 ## Map
 
 ```{r Map, echo=FALSE}
@@ -24,7 +26,6 @@ map
 ```
 
 
-</br>
 </br>
 
 ## Table
