@@ -2,7 +2,7 @@
 
 :::: {.columns}
 ::: {.column width=15%}
-![](./www/me.jpeg){height=150px}
+![](./www/me.jpeg){width=100px}
 :::
 
 ::: {.column width=85%}
