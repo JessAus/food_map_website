@@ -1,11 +1,11 @@
 ## About Me
 
 :::: {.columns}
-::: {.column width=30%}
-![](./www/me.jpeg)
+::: {.column width=15%}
+![](./www/me.jpeg){height=150px}
 :::
 
-::: {.column width=70%}
+::: {.column width=85%}
 Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto.
 :::
 ::::
