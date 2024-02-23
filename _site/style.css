@@ -2,3 +2,7 @@
 .dataTables_wrapper .dataTables_filter {
   padding-bottom: .50em;
 }
+
+b,strong {
+  font-weight: bold;
+}

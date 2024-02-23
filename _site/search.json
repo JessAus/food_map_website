@@ -4,12 +4,12 @@
     "href": "journal.html",
     "title": "Gallery",
     "section": "",
-    "text": "Favorite Dish(es): Dark Chocolate, Peanut Butter Explosion\n\n\n\n\nFavorite Dish(es): Pumpkin Empanadas, Conchas, Shortbread\n\n\n\n\nFavorite Dish(es): Fresas con Crema, Mangonada\n\n\n\n\nFavorite Dish(es): Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake\n\n\n\n\n\n\n\nFavorite Dish(es): Polar Punch (w/ Strawberry Puree & Boba)\n\n\n\n\nFavorite Dish(es): Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk)\n\n\n\n\nFavorite Dish(es): Vision, Youth, Alive, Protein Punch (w/ Blue Majik)"
+    "text": "Favorite Dish(es): Sweet Pork Burrito, Chips & Queso\nFavorite Drink(s): NA\nPhone: (817)-750-1775\nAddress: 9530 Feather Grass Ln Suite 180, Fort Worth, TX 76177\nOrder Here"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "What Will We Eat?",
+    "title": "What's For Dinner?",
     "section": "",
     "text": "Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto."
   },
@@ -23,7 +23,7 @@
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
-    "title": "What Will We Eat?",
+    "title": "What's For Dinner?",
     "section": "",
     "text": "Jessie Ausman is a data scientist with a focus on health informatics and data visualization. She primarily uses R/RStudio in her everyday work, but also has experience working with JavaScript, CSS/HTML, Command Line, and Git Bash. She has worked with Tableau and Power BI, but prefers the familiarity of Quarto."
   },
@@ -37,7 +37,7 @@
   {
     "objectID": "about.html#tldr",
     "href": "about.html#tldr",
-    "title": "What Will We Eat?",
+    "title": "What's For Dinner?",
     "section": "TL;DR",
     "text": "TL;DR\nI am an indecisive data scientist who decided it would be easier to make a website than it would be to actually make a decision on what I should eat for dinner."
   },
@@ -324,14 +324,14 @@
   {
     "objectID": "about.html#about-the-website",
     "href": "about.html#about-the-website",
-    "title": "What Will We Eat?",
+    "title": "What's For Dinner?",
     "section": "About the Website",
     "text": "About the Website\nI created this website as a fun personal project to practice using the R Leaflet package for visualizing geographic data. As an added benefit, I hoped that this website could help me dodge arguments with my fiancé regarding what we will eat for dinner.\nThis website provides a few utilities to the user:\n\nYou are able to view a map of some of my favorite restaurants across DFW, which is color coded by the type of food.\nYou may also visit the blog page where my favorite dishes are listed for each restaurant.\nYou may view the restaurants in a more tabular format where you can filter each of the columns by type of food, price range, street/shopping center, and/or rating (as rated by yours truly)."
   },
   {
     "objectID": "about.html#affiliations",
     "href": "about.html#affiliations",
-    "title": "What Will We Eat?",
+    "title": "What's For Dinner?",
     "section": "Affiliation(s)",
     "text": "Affiliation(s)\nI do not profit from any of the restaurants listed on this website and I have no financial ties to these establishments. I simply frequent these restaurants because I like their food."
   },
@@ -340,20 +340,83 @@
     "href": "journal.html#food",
     "title": "Gallery",
     "section": "",
-    "text": "Favorite Dish(es): Stir Fry (DIY)\n\n\n\n\nFavorite Dish(es): Bison Burger\n\n\n\n\nFavorite Dish(es): Holy Shitake\n\n\n\n\nFavorite Dish(es): Louisiana Roll, Happy Roll\n\n\n\n\nFavorite Dish(es): Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll\n\n\n\n\nFavorite Dish(es): Tiramisu\n\n\n\n\nFavorite Dish(es): Hot Chick\n\n\n\n\nFavorite Dish(es): Green Curry, Duck Basil\n\n\n\n\nFavorite Dish(es): (Haven’t Been Here Yet - Was Recommended)\n\n\n\n\nFavorite Dish(es): Crab Legs\n\n\n\n\nFavorite Dish(es): Lengua Tacos, Al Pastor Tacos"
+    "text": "Favorite Dish(es): Sweet Pork Burrito, Chips & Queso\nFavorite Drink(s): NA\nPhone: (817)-750-1775\nAddress: 9530 Feather Grass Ln Suite 180, Fort Worth, TX 76177\nOrder Here"
   },
   {
     "objectID": "journal.html#desserts",
     "href": "journal.html#desserts",
-    "title": "Gallery",
+    "title": "Restaurant Gallery",
     "section": "Desserts",
-    "text": "Desserts"
+    "text": "Desserts\n\n\n\n\n \n\n♥ Melt Ice Creams\nFavorite Dish(es): Dark Chocolate, Peanut Butter Explosion\n\nPhone: (817) 886-8365\nAddress: 1201 W Magnolia Ave Ste 115, Fort Worth, TX 76104\n\n\n\n\n\n\n\n \n\nGuanajuato Bakery\nFavorite Dish(es): Pumpkin Empanadas, Conchas, Shortbread\n\nPhone: (817) 831-6066\nAddress: 3301 E Belknap St, Fort Worth, TX 76111\n\n\n\n\n\n\n\n\nLas Delicias de Michoacan\nFavorite Dish(es): Fresas con Crema, Mangonada\n\nPhone: (817) 479-3341\nAddress: 5340 Rufe Snow Dr, North Richland Hills, TX 76180\n\n\n\n\n\n\n\n\nThe Cheesecake Factory\nFavorite Dish(es): Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake\n\nPhone: (817) 348-0810\nAddress: 455 Commerce St, Fort Worth, TX 76102\nOrder Here"
   },
   {
     "objectID": "journal.html#drinks",
     "href": "journal.html#drinks",
-    "title": "Gallery",
+    "title": "Restaurant Gallery",
     "section": "Drinks",
-    "text": "Drinks"
+    "text": "Drinks\n\n\n\n\n\n\nSwig\nFavorite Drink(s): Polar Punch (w/ Strawberry Puree & Boba)\n\nPhone: (817) 516-6789\nAddress: 7004 N Blue Mound Rd, Fort Worth, TX 76131\nOrder Here\n\n\n\n\n\n\n\n\n♥ Race Street Coffee\nFavorite Dish(es): Avocado Toast\nFavorite Drink(s): Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk)\n\nPhone: (817) 330-9270\nAddress: 3021 Race St, Fort Worth, TX 76111\nOrder Here\n\n\n\n\n\n\n\n\nMain Squeeze Juice Co.\nFavorite Dish(es): Avocado Toast\nFavorite Drink(s): Vision, Youth, Alive, Remedy, Protein Punch (w/ Blue Majik)\n\nPhone: (469) 618-0658\nAddress: 4560 Heritage Trace Pkwy #500, Fort Worth, TX 76244\nOrder Here"
+  },
+  {
+    "objectID": "journal.html#mexicanlatin",
+    "href": "journal.html#mexicanlatin",
+    "title": "Restaurant Gallery",
+    "section": "Mexican/Latin",
+    "text": "Mexican/Latin\n\n\n\n\n\nCosta Vida\nFavorite Dish(es): Sweet Pork Burrito, Chips & Queso\nFavorite Drink(s): NA\nPhone: (817) 750-1775\nAddress: 9530 Feather Grass Ln Suite 180, Fort Worth, TX 76177\nOrder Here\n\n\n\n\n\n\n\n\n♥ Boca 31\nFavorite Dish(es): Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains\nFavorite Drink(s): NA\nPhone: (817) 862-9700\nAddress: 1000 8th Ave Ste 101, Fort Worth, TX 76104\n\n\n\n\n\n\n\n\nLos Molcajetes\nFavorite Dish(es): Chicken Mole, Sopapillas\nFavorite Drink(s): NA\nPhone: (817) 306-9000\nAddress: 4320 Western Center Blvd, Fort Worth, TX 76137\n\n\n\n\n\n \n\n\nDoc’s Food Store\nFavorite Dish(es): Pastor Tacos\nFavorite Drink(s): NA\nPhone: (817) 831-3377\nAddress: 1718 Haltom Rd, Fort Worth, TX 76117\n\n\n\n\n\n \n\n \n\nRevolver Taco Lounge\nFavorite Dish(es): Lengua Tacos, Al Pastor Tacos\nFavorite Drink(s): NA\nPhone: (214) 258-5900\nAddress: 2646 Elm St Dallas TX 75226"
+  },
+  {
+    "objectID": "journal.html#asian",
+    "href": "journal.html#asian",
+    "title": "Restaurant Gallery",
+    "section": "Asian",
+    "text": "Asian\n\n\n\n\n\nTaste of Asia\nFavorite Dish(es): Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side)\nFavorite Drink(s): NA\nPhone: (817) 503-1818\nAddress: 7420 N Beach St ste250, Fort Worth, TX 76137\nOrder Here\n\n\n\n\n\n \n\n\n♥ Hongthong Café\nFavorite Dish(es): Thai Basil Chicken, Pad Thai, Curry Puffs\nFavorite Drink(s): Taro Boba Smoothie\nPhone: (817) 420-9355\nAddress: 5302 E Belknap St B2, Haltom City, TX 76117\nOrder Here\n\n\n\n\n\n\n\n\n♥ Phơ Thiên Ý\nFavorite Dish(es): Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice\nFavorite Drink(s): Mango Smoothie\nPhone: (817) 831-1487\nAddress: 5310 E Belknap St, Haltom City, TX 76117\n\n\n\n\n\n\n\n\n♥ Taste of Thai\nFavorite Dish(es): Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream\nFavorite Drink(s): NA\nPhone: (817) 543-0110\nAddress: 2535 E Arkansas Ln Suite 319, Arlington, TX 76010\nOrder Here\n\n\n\n\n\n\n\n\nChan’s Mongolian Grill\nFavorite Dish(es): Stir Fry (DIY)\nFavorite Drink(s): NA\nPhone: (817) 788-5117\nAddress: 9147 TX-26 #450, North Richland Hills, TX 76180\nOrder Here\n\n\n\n\n\n\n\n\nHK Sushi\nFavorite Dish(es): Louisiana Roll, Happy Roll\nFavorite Drink(s): NA\nPhone: (817) 479-7479\nAddress: 6801 Rufe Snow Dr Suite 100, Watauga, TX 76148\nOrder Here\n\n\n\n\n\n\n\n\nItoko Sushi & Ramen\nFavorite Dish(es): Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll\nFavorite Drink(s): NA\nPhone: (817) 458-8832\nAddress: 6245 Rufe Snow Dr #250, Fort Worth, TX 76148\nOrder Here\n\n\n\n\n\n\n\n\nKoracha\nFavorite Dish(es): Green Curry, Duck Basil\nFavorite Drink(s): NA\nPhone: (817) 286-3625\nAddress: 229 Harwood Rd, Bedford, TX 76021\nOrder Here\n\n\n\n\n\n\n\n\nAri Korean BBQ\nFavorite Dish(es): (Haven’t Been Here Yet - Was Recommended)\nFavorite Drink(s): NA\nPhone: (972) 517-9393\nAddress: 120 Legacy Dr, Plano, TX 75023"
+  },
+  {
+    "objectID": "journal.html#chicken",
+    "href": "journal.html#chicken",
+    "title": "Restaurant Gallery",
+    "section": "Chicken",
+    "text": "Chicken\n\n\n\n\n\n♥ Chicken Salad Chick\nFavorite Dish(es): Sassy Scotty, Fancy Nancy, Broccoli Cheddar Soup\nFavorite Drink(s): Raspberry Tea\nPhone: (817) 857-8501\nAddress: 8825 Tehama Ridge Pkwy Suite 329, Fort Worth, TX 76177\nOrder Here\n\n\n\n\n\n\n\n\nSlim Chickens\nFavorite Dish(es): BBQ Wings, Dessert Jars\nFavorite Drink(s): Milkshake\nPhone: (817) 849-9101\nAddress: 5528 N Tarrant Pkwy, Fort Worth, TX 76244\nOrder Here\n\n\n\n\n\n\n\n\n♥ Chick-Fil-A\nFavorite Dish(es): 30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon)\nFavorite Drink(s): Lemonade\nPhone: (817) 847-7384\nAddress: 2900 Western Center Blvd, Fort Worth, TX 76131\nOrder Here\n\n\n\n\n\n\n\n\n♥ Pollo Regio\nFavorite Dish(es): Half Chicken (Extra Rice)\nFavorite Drink(s): NA\nPhone: (682) 312-5113\nAddress: 951 N Beach St, Fort Worth, TX 76111\nOrder Here"
+  },
+  {
+    "objectID": "journal.html#indian",
+    "href": "journal.html#indian",
+    "title": "Restaurant Gallery",
+    "section": "Indian",
+    "text": "Indian\n\n\n\n\n\n♥ SWAD Indian & Nepalese Cuisine\nFavorite Dish(es): Butter Chicken, Lamb Tikka Masala\nFavorite Drink(s): NA\nPhone: (817) 406-5360\nAddress: 8333 Sohi Dr #100, Fort Worth, TX 76137\nOrder Here"
+  },
+  {
+    "objectID": "journal.html#deli",
+    "href": "journal.html#deli",
+    "title": "Restaurant Gallery",
+    "section": "Deli",
+    "text": "Deli\n\n\n\n\n\nJersey Mike’s Subs\nFavorite Dish(es): Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo)\nFavorite Drink(s): NA\nPhone: (817) 502-6400\nAddress: 1624 Basswood Blvd, Fort Worth, TX 76131\nOrder Here\n\n\n\n\n\n\n\n\nSalad & Go\nFavorite Dish(es): BBQ Ranch Wrap/Salad (w/ Sweet Potatoes)\nFavorite Drink(s): Cold Brew, Blueberry Basil Lemonade\nPhone: (214) 678-0952\nAddress: 6900 N Blue Mound Rd, Fort Worth, TX 76131\nOrder Here"
+  },
+  {
+    "objectID": "journal.html#breakfast",
+    "href": "journal.html#breakfast",
+    "title": "Restaurant Gallery",
+    "section": "Breakfast",
+    "text": "Breakfast\n\n\n\n\n\n♥ Tiger Donut\nFavorite Dish(es): Jalapeño Kolaches, Custard Filled Donuts, Donut Holes\nFavorite Drink(s): NA\nPhone: (469) 493-2982\nAddress: 7127 Blvd 26, North Richland Hills, TX 76180\nOrder Here\n\n\n\n\n\n\n\n\nFirst Watch\nFavorite Dish(es): Market Hash\nFavorite Drink(s): Fresh Juices\nPhone: (817) 427-3447\nAddress: 8424 Lakewood Hill Dr Suite 112, Fort Worth, TX 76244"
+  },
+  {
+    "objectID": "journal.html#pizzaitalian",
+    "href": "journal.html#pizzaitalian",
+    "title": "Restaurant Gallery",
+    "section": "Pizza/Italian",
+    "text": "Pizza/Italian\n\n\n\n\n\n♥ Cane Rosso\nFavorite Dish(es): Honey Bastard, Burrata & Cherries\nFavorite Drink(s): NA\nPhone: (817) 922-9222\nAddress: 815 W Magnolia Ave, Fort Worth, TX 76104\nOrder Here\n\n\n\n\n\n\n\n\nMellow Mushroom\nFavorite Dish(es): Holy Shitake\nFavorite Drink(s): NA\nPhone: (817) 274-7173\nAddress: 200 N Center St, Arlington, TX 76011\nOrder Here\n\n\n\n\n\n\n\n\nCalabrese\nFavorite Dish(es): Tiramisu\nFavorite Drink(s): NA\nPhone: (817) 251-8798\nAddress: 1281 E State Hwy 114, Southlake, TX 76092\n\n\n\n\n\n\n\n\nBosses Pizza\nFavorite Dish(es): Hot Chick\nFavorite Drink(s): NA\nPhone: (817) 238-9899\nAddress: 6059 Lake Worth Blvd, Fort Worth, TX 76135\nOrder Here"
+  },
+  {
+    "objectID": "journal.html#burgers",
+    "href": "journal.html#burgers",
+    "title": "Restaurant Gallery",
+    "section": "Burgers",
+    "text": "Burgers\n\n\n\n\n\nTwisted Root Burger Company\nFavorite Dish(es): Bison Burger\nFavorite Drink(s): NA\nPhone: (817) 201-9669\nAddress: 310 E Abram St #100, Arlington, TX 76010\nOrder Here\n\n\n\n\n\n\n\n\nGustos Burgers\nFavorite Dish(es): (Haven’t Been Here Yet - Was Recommended)\nFavorite Drink(s): NA\nAddress: 1229 7th Ave, Fort Worth, TX 76104"
+  },
+  {
+    "objectID": "journal.html#seafood",
+    "href": "journal.html#seafood",
+    "title": "Restaurant Gallery",
+    "section": "Seafood",
+    "text": "Seafood\n\n\n\n\n\nAw Shucks\nFavorite Dish(es): Crab Legs, Oysters\nFavorite Drink(s): NA\nPhone: (214) 821-9449\nAddress: 3601 Greenville Ave, Dallas, TX 75206\nOrder Here"
   }
 ]

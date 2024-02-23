@@ -1,6 +1,6 @@
 ---
-title: "Gallery"
-subtitle: "Click on Images for More Information About Each Location"
+title: "Restaurant Gallery"
+subtitle: 'Absolute Favorites Marked with a "♥"'
 filters: 
   - lightbox
 lightbox: 
@@ -8,130 +8,706 @@ lightbox:
   effect: fade
 ---
 
+</br>
 
-## Food
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+## Mexican/Latin
 
-![](www/costa_vida.jpg){group="food" description="Costa Vida <br/>
-Favorite Dish(es): Sweet Pork Burrito, Chips & Queso"}
-
-![](www/taste_of_asia.jpg){group="food" description="Taste of Asia <br/>
-Favorite Dish(es): Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side)"}
-
-![](www/hongthong.jpeg){group="food" description="Hongthong Cafe <br/>
-Favorite Dish(es): Thai Basil Chicken, Pad Thai, Taro Boba Smoothie"}
-
-![](www/pho_thien.jpg){group="food" description="Pho Thien Y <br/>
-Favorite Dish(es): Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice"}
-
-![](www/chicken_salad_chick.jpg){group="food" description="Chicken Salad Chick <br/>
-Favorite Dish(es): Sassy Scotty, Fancy Nancy, Broccoli Cheddar Soup"}
-
-![](www/slim_chicken.jpg){group="food" description="Slim Chicken <br/>
-Favorite Dish(es): BBQ Wings"}
-
-![](www/SWAD.jpg){group="food" description="SWAD <br/>
-Favorite Dish(es): Butter Chicken, Lamb Tikka Masala"}
-
-![](www/jersey_mike.jpg){group="food" description="Jersey Mike's <br/>
-Favorite Dish(es): Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo)"}
-
-![](www/taste_of_thai.jpg){group="food" description="Taste of Thai <br/>
-Favorite Dish(es): Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream"}
-
-![](www/chick_fil_a.jpg){group="food" description="Chick-Fil-A <br/>
-Favorite Dish(es): 30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon)"}
-
-![](www/tiger_donut.jpg){group="food" description="Tiger Donut <br/>
-Favorite Dish(es): Jalapeño Kolaches, Custard Filled Donuts, Donut Holes"}
-
-![](www/salad_and_go.jpg){group="food" description="Salad and Go <br/>
-Favorite Dish(es): BBQ Ranch Wrap/Salad (w/ Sweet Potatoes), Cold Brew, Blueberry Basil Lemonade"}
-
-![](www/pollo_regio.jpg){group="food" description="Pollo Regio <br/>
-Favorite Dish(es): Half Chicken (Extra Rice)"}
-
-![](www/cane_rosso.jpg){group="food" description="Cane Rosso <br/>
-Favorite Dish(es): Honey Bastard, Burrata & Cherries"}
-
-![](www/boca_31.jpg){group="food" description="Boca 31 <br/>
-Favorite Dish(es): Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains"}
-
-![](www/los_molcajetes.jpg){group="food" description="Los Molcajetes <br/>
-Favorite Dish(es): Chicken Mole, Sopapillas"}
-
-![](www/docs.jpg){group="food" description="Doc's Food Store <br/>
-Favorite Dish(es): Pastor Tacos"}
-
-![](www/first_watch.jpg){group="food" description="First Watch <br/>
-Favorite Dish(es): Fresh Juices, Market Hash"}
-
-![](www/chans.jpg){group="food" description="Chan's Mongolian Grill <br/>
-Favorite Dish(es): Stir Fry (DIY)"}\
-
-![](www/twisted_root.jpg){group="food" description="Twisted Root Burger Company <br/>
-Favorite Dish(es): Bison Burger"}
-
-![](www/mellow_mushroom.jpg){group="food" description="Mellow Mushroom <br/>
-Favorite Dish(es): Holy Shitake"}
-
-![](www/hk.jpg){group="food" description="HK Sushi <br/>
-Favorite Dish(es): Louisiana Roll, Happy Roll"}
-
-![](www/itoko.jpg){group="food" description="Itoko Sushi & Ramen <br/>
-Favorite Dish(es): Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll"}
-
-![](www/calabrese.jpg){group="food" description="Calabrese <br/>
-Favorite Dish(es): Tiramisu"}
-
-![](www/bosses.jpg){group="food" description="Bosses Pizza <br/>
-Favorite Dish(es): Hot Chick"}
-
-![](www/koracha.jpg){group="food" description="Koracha <br/>
-Favorite Dish(es): Green Curry, Duck Basil"}
-
-![](www/gustos.jpg){group="food" description="Gustos Burgers <br/>
-Favorite Dish(es): (Haven't Been Here Yet - Was Recommended)"}
-
-![](www/aw_shucks.jpg){group="food" description="Aw Shucks <br/>
-Favorite Dish(es): Crab Legs"}
-
-![](www/revolver_taco.jpg){group="food" description="Revolver Taco Lounge <br/>
-Favorite Dish(es): Lengua Tacos, Al Pastor Tacos"}
-
-![](www/ari.jpg){group="food" description="Ari Korean BBQ <br/>
-Favorite Dish(es): (Haven't Been Here Yet - Was Recommended)
-"}
+:::: {.columns}
+::: {.column width="30%"}
+![](www/costa_vida.jpg){height="300px" align="left"}
 :::
+
+::: {.column width="70%"}
+### Costa Vida
+
+**Favorite Dish(es):** Sweet Pork Burrito, Chips & Queso \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 750-1775 \
+**Address:** 9530 Feather Grass Ln Suite 180, Fort Worth, TX 76177
+
+[Order Here](https://www.costavida.com/menu/?utm_source=G&utm_medium=Local&utm_campaign=Google-Local)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/boca_31.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Boca 31
+
+**Favorite Dish(es):** Chicken Al Pastor (Tacos or Rice Bowl), Nutella Empanadas, Guava & Cream Cheese Empanadas, Fried Plantains \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 862-9700 \
+**Address:** 1000 8th Ave Ste 101, Fort Worth, TX 76104
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/los_molcajetes.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Los Molcajetes
+
+**Favorite Dish(es):** Chicken Mole, Sopapillas \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 306-9000 \
+**Address:** 4320 Western Center Blvd, Fort Worth, TX 76137
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+</br>
+![](www/docs.jpg){height="170px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Doc's Food Store
+
+**Favorite Dish(es):** Pastor Tacos \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 831-3377 \
+**Address:** 1718 Haltom Rd, Fort Worth, TX 76117
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+</br>
+![](www/revolver_taco.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+
+</br>
+</br>
+
+### Revolver Taco Lounge
+
+**Favorite Dish(es):** Lengua Tacos, Al Pastor Tacos \
+**Favorite Drink(s):** NA
+
+**Phone:** (214) 258-5900 \
+**Address:** 2646 Elm St Dallas TX 75226
+:::
+::::
+
+## Asian
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/taste_of_asia.jpg){height="335px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Taste of Asia
+
+**Favorite Dish(es):** Orange Chicken (Extra Crispy), Teriyaki Beef (Extra Crispy), Crab Ragoon, Lucky Roll, Fried Rice (Side) \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 503-1818 \
+**Address:** 7420 N Beach St ste250, Fort Worth, TX 76137
+
+[Order Here](https://tasteofasiabasswood.kwickmenu.com/)
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="30%"}
+</br>
+![](www/hongthong.jpg){height="220px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Hongthong Café
+
+**Favorite Dish(es):** Thai Basil Chicken, Pad Thai, Curry Puffs \
+**Favorite Drink(s):** Taro Boba Smoothie
+
+**Phone:** (817) 420-9355 \
+**Address:** 5302 E Belknap St B2, Haltom City, TX 76117
+
+[Order Here](https://www.orderhongthongcafe.com/)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/pho_thien.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Phơ Thiên Ý
+
+**Favorite Dish(es):** Combination Pho, Pork Spring Rolls, Banh Mi, Chicken Fried Rice \
+**Favorite Drink(s):** Mango Smoothie
+
+**Phone:** (817) 831-1487 \
+**Address:** 5310 E Belknap St, Haltom City, TX 76117
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/taste_of_thai.jpg){height="260px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Taste of Thai
+
+**Favorite Dish(es):**  Green Curry, Crab Ragoon, Corn Patties, Sticky Rice & Mango, Coconut Ice Cream \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 543-0110 \
+**Address:** 2535 E Arkansas Ln Suite 319, Arlington, TX 76010
+
+[Order Here](https://tasteofthaitx.smiledining.com/?2024012201)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/chans.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Chan's Mongolian Grill
+
+**Favorite Dish(es):**  Stir Fry (DIY) \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 788-5117 \
+**Address:** 9147 TX-26 #450, North Richland Hills, TX 76180
+
+[Order Here](https://zingmyorder.com/restaurants/chans-mongolian-grill-north-richland-hills)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/hk.jpg){height="240px" align="left"}
+:::
+
+::: {.column width="70%"}
+### HK Sushi
+
+**Favorite Dish(es):**  Louisiana Roll, Happy Roll \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 479-7479 \
+**Address:** 6801 Rufe Snow Dr Suite 100, Watauga, TX 76148
+
+[Order Here](https://hksushiwatauga.com/)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/itoko.jpg){height="310px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Itoko Sushi & Ramen
+
+**Favorite Dish(es):** Takoyaki, Chicken Tariyaki Bowl, Tonkotsu Ramen, Geisha Roll, Tears in Heaven Roll \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 458-8832 \
+**Address:** 6245 Rufe Snow Dr #250, Fort Worth, TX 76148
+
+[Order Here](https://itokosushiandramentx.com/)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/koracha.jpg){height="260px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Koracha
+
+**Favorite Dish(es):** Green Curry, Duck Basil \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 286-3625 \
+**Address:** 229 Harwood Rd, Bedford, TX 76021
+
+[Order Here](https://korachathai.com/)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/ari.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Ari Korean BBQ
+
+**Favorite Dish(es):** (Haven't Been Here Yet - Was Recommended) \
+**Favorite Drink(s):** NA
+
+**Phone:** (972) 517-9393 \
+**Address:** 120 Legacy Dr, Plano, TX 75023
+
+:::
+::::
+
+## Chicken
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/chicken_salad_chick.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Chicken Salad Chick
+
+**Favorite Dish(es):** Sassy Scotty, Fancy Nancy, Broccoli Cheddar Soup \
+**Favorite Drink(s):** Raspberry Tea
+
+**Phone:** (817) 857-8501 \
+**Address:** 8825 Tehama Ridge Pkwy Suite 329, Fort Worth, TX 76177
+
+[Order Here](https://www.chickensaladchick.com/menu/restaurant-menu/chicken-salad/?utm_source=GMB&utm_medium=organic&utm_campaign=fortworth)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/slim_chicken.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Slim Chickens
+
+**Favorite Dish(es):** BBQ Wings, Dessert Jars \
+**Favorite Drink(s):** Milkshake
+
+**Phone:** (817) 849-9101 \
+**Address:** 5528 N Tarrant Pkwy, Fort Worth, TX 76244
+
+[Order Here](https://order.slimchickens.com/menu/slim-chickens-texas-fort-worth?olonwp=JjBtp_vMLk25gkYh_bnoiQ)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/chick_fil_a.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Chick-Fil-A
+
+**Favorite Dish(es):**  30 Count Nuggets (To Share), Chicken Deluxe Sandwich (w/ Bacon) \
+**Favorite Drink(s):** Lemonade
+
+**Phone:** (817) 847-7384 \
+**Address:** 2900 Western Center Blvd, Fort Worth, TX 76131
+
+[Order Here](https://www.chick-fil-a.com/locations/tx/western-center-blvd/menu?utm_source=yext&utm_medium=link)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/pollo_regio.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Pollo Regio
+
+**Favorite Dish(es):**  Half Chicken (Extra Rice) \
+**Favorite Drink(s):** NA
+
+**Phone:** (682) 312-5113 \
+**Address:** 951 N Beach St, Fort Worth, TX 76111
+
+[Order Here](https://www.polloregio.com/)
+:::
+::::
+
+## Indian
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/SWAD.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ SWAD Indian & Nepalese Cuisine
+
+**Favorite Dish(es):**  Butter Chicken, Lamb Tikka Masala \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 406-5360 \
+**Address:** 8333 Sohi Dr #100, Fort Worth, TX 76137
+
+[Order Here](https://zingmyorder.com/restaurants/swad-indian-and-nepalese-cuisine-fort-worth)
+:::
+::::
+
+## Deli
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/jersey_mike.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Jersey Mike's Subs
+
+**Favorite Dish(es):**  Chicken Big Kahuna (w/ Bacon), Club Sub (no Mayo) \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 502-6400 \
+**Address:** 1624 Basswood Blvd, Fort Worth, TX 76131
+
+[Order Here](https://www.jerseymikes.com/menu)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/salad_and_go.jpg){height="315px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Salad & Go
+
+**Favorite Dish(es):**  BBQ Ranch Wrap/Salad (w/ Sweet Potatoes) \
+**Favorite Drink(s):** Cold Brew, Blueberry Basil Lemonade
+
+**Phone:** (214) 678-0952 \
+**Address:** 6900 N Blue Mound Rd, Fort Worth, TX 76131
+
+[Order Here](https://www.saladandgo.com/menu/)
+:::
+::::
+
+## Breakfast
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/tiger_donut.jpg){height="275px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Tiger Donut
+
+**Favorite Dish(es):**  Jalapeño Kolaches, Custard Filled Donuts, Donut Holes \
+**Favorite Drink(s):** NA
+
+**Phone:** (469) 493-2982 \
+**Address:** 7127 Blvd 26, North Richland Hills, TX 76180
+
+[Order Here](https://www.ezcater.com/catering/kolache-house-3)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/first_watch.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### First Watch
+
+**Favorite Dish(es):**  Market Hash \
+**Favorite Drink(s):** Fresh Juices
+
+**Phone:** (817) 427-3447 \
+**Address:** 8424 Lakewood Hill Dr Suite 112, Fort Worth, TX 76244
+
+:::
+::::
+
+## Pizza/Italian
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/cane_rosso.jpg){height="245px" align="left"}
+:::
+
+::: {.column width="70%"}
+### ♥ Cane Rosso
+
+**Favorite Dish(es):**  Honey Bastard, Burrata & Cherries \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 922-9222 \
+**Address:** 815 W Magnolia Ave, Fort Worth, TX 76104
+
+[Order Here](https://www.canerosso.com/fort-worth)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/mellow_mushroom.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Mellow Mushroom
+
+**Favorite Dish(es):**  Holy Shitake \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 274-7173 \
+**Address:** 200 N Center St, Arlington, TX 76011
+
+[Order Here](https://www.mellowmushroom.com/locations/tx/arlington/200-n-center-st/)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/calabrese.jpg){height="300px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Calabrese
+
+**Favorite Dish(es):**  Tiramisu \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 251-8798 \
+**Address:** 1281 E State Hwy 114, Southlake, TX 76092
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/bosses.jpg){height="260px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Bosses Pizza
+
+**Favorite Dish(es):**  Hot Chick \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 238-9899 \
+**Address:** 6059 Lake Worth Blvd, Fort Worth, TX 76135
+
+[Order Here](https://bossespizza.com/menu/)
+
+:::
+::::
+
+## Burgers
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/twisted_root.jpg){height="260px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Twisted Root Burger Company
+
+**Favorite Dish(es):**  Bison Burger \
+**Favorite Drink(s):** NA
+
+**Phone:** (817) 201-9669 \
+**Address:** 310 E Abram St #100, Arlington, TX 76010
+
+[Order Here](https://www.twistedrootburgerco.com/menu)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/gustos.jpg){height="243px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Gustos Burgers
+
+**Favorite Dish(es):**  (Haven't Been Here Yet - Was Recommended) \
+**Favorite Drink(s):** NA
+
+**Address:** 1229 7th Ave, Fort Worth, TX 76104
+
+:::
+::::
+
+## Seafood
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/aw_shucks.jpg){height="250px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Aw Shucks
+
+**Favorite Dish(es):**  Crab Legs, Oysters \
+**Favorite Drink(s):** NA
+
+**Phone:** (214) 821-9449 \
+**Address:** 3601 Greenville Ave, Dallas, TX 75206
+
+[Order Here](https://awshucksdallas.com/menu/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness&utm_term=dallas)
+:::
+::::
+
+</br>
+</br>
 
 ## Desserts
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+:::: {.columns}
+::: {.column width="30%"}
+![](www/melt.jpg){height="305" align="left"}
+:::
 
-![](www/melt.jpg){group="dessert" description="Melt <br/>
-Favorite Dish(es): Dark Chocolate, Peanut Butter Explosion"}
+::: {.column width="70%"}
 
-![](www/guana_bakery.jpg){group="dessert" description="Guanajuato Bakery <br/>
-Favorite Dish(es): Pumpkin Empanadas, Conchas, Shortbread"}
+</br>
+</br>
 
-![](www/las_delicias.jpg){group="dessert" description="Las Delicias de Michoacan <br/>
-Favorite Dish(es): Fresas con Crema, Mangonada"}
+### ♥ Melt Ice Creams
 
-![](www/cheesecake.jpg){group="dessert" description="The Cheesecake Factory <br/>
-Favorite Dish(es): Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake"}
+**Favorite Dish(es):**  Dark Chocolate, Peanut Butter Explosion \
+
+**Phone:** (817) 886-8365 \
+**Address:** 1201 W Magnolia Ave Ste 115, Fort Worth, TX 76104
 
 :::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/guana_bakery.jpg){height="305px" align="left"}
+:::
+
+::: {.column width="70%"}
+
+</br>
+</br>
+
+### Guanajuato Bakery
+
+**Favorite Dish(es):**  Pumpkin Empanadas, Conchas, Shortbread \
+
+**Phone:** (817) 831-6066 \
+**Address:** 3301 E Belknap St, Fort Worth, TX 76111
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/las_delicias.jpg){height="160px" align="left"}
+:::
+
+::: {.column width="70%"}
+### Las Delicias de Michoacan
+
+**Favorite Dish(es):** Fresas con Crema, Mangonada \
+
+**Phone:** (817) 479-3341 \
+**Address:** 5340 Rufe Snow Dr, North Richland Hills, TX 76180
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/cheesecake.jpg){height="275px" align="left"}
+:::
+
+::: {.column width="70%"}
+### The Cheesecake Factory
+
+**Favorite Dish(es):** Godiva Chocolate Cheesecake, Ultimate Red Velvet Cake Cheesecake \
+
+**Phone:** (817) 348-0810 \
+**Address:** 455 Commerce St, Fort Worth, TX 76102
+
+[Order Here](https://www.thecheesecakefactory.com/locations/fort-worth-tx/menu?utm_source=SEARCH&utm_medium=GOOGLE&utm_content=MENU&utm_campaign=GOOGLE_SEARCH_MENU)
+
+:::
+::::
+
+</br>
+</br>
 
 ## Drinks
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
-
-![](www/swig.jpg){group="drink" description="Swig <br/>
-Favorite Drink(s): Polar Punch (w/ Strawberry Puree & Boba)"}
-
-![](www/race_street.jpg){group="drink" description="Race Street Coffee <br/>
-Favorite Drink(s): Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk)"}
-
-![](www/main_squeeze.png){group="drink" description="Main Squeeze <br/>
-Favorite Drink(s): Vision, Youth, Alive, Protein Punch (w/ Blue Majik)"}
+:::: {.columns}
+::: {.column width="30%"}
+![](www/swig.jpg){height="300px" align="left"}
 :::
+
+::: {.column width="70%"}
+
+</br>
+
+### Swig
+
+**Favorite Drink(s):** Polar Punch (w/ Strawberry Puree & Boba) \
+
+**Phone:** (817) 516-6789 \
+**Address:** 7004 N Blue Mound Rd, Fort Worth, TX 76131
+
+[Order Here](https://swigdrinks.com/menu/)
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/race_street.jpg){height="275px" align="left"}
+:::
+
+::: {.column width="70%"}
+
+### ♥ Race Street Coffee
+
+**Favorite Dish(es):** Avocado Toast \
+**Favorite Drink(s):** Vanilla Latte (w/ Oat Milk), Sweater Weather Latte (w/ Oat Milk), Salted Caramel Latte (w/ Oat Milk) \
+
+**Phone:** (817) 330-9270 \
+**Address:** 3021 Race St, Fort Worth, TX 76111
+
+[Order Here](https://racestreetcoffee.square.site/)
+
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="30%"}
+![](www/main_squeeze.jpg){height="275px" align="left"}
+:::
+
+::: {.column width="70%"}
+
+### Main Squeeze Juice Co.
+
+**Favorite Dish(es):** Avocado Toast \
+**Favorite Drink(s):** Vision, Youth, Alive, Remedy, Protein Punch (w/ Blue Majik) \
+
+**Phone:** (469) 618-0658 \
+**Address:** 4560 Heritage Trace Pkwy #500, Fort Worth, TX 76244
+
+[Order Here](https://www.mainsqueezejuiceco.com/#/shop/order/menu)
+
+:::
+::::
+
+
