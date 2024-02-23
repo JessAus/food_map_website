@@ -14,7 +14,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/costa_vida.jpg){height="300px" align="left"}
+![](./www/costa_vida.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -32,7 +32,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/boca_31.jpg){height="300px" align="left"}
+![](./www/boca_31.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -49,7 +49,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/los_molcajetes.jpg){height="300px" align="left"}
+![](./www/los_molcajetes.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -66,7 +66,7 @@ lightbox:
 :::: {.columns}
 ::: {.column width="30%"}
 </br>
-![](www/docs.jpg){height="170px" align="left"}
+![](./www/docs.jpg){height="170px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -83,7 +83,7 @@ lightbox:
 :::: {.columns}
 ::: {.column width="30%"}
 </br>
-![](www/revolver_taco.jpg){height="300px" align="left"}
+![](./www/revolver_taco.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -105,7 +105,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/taste_of_asia.jpg){height="335px" align="left"}
+![](./www/taste_of_asia.jpg){height="335px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -125,7 +125,7 @@ lightbox:
 :::: {.columns}
 ::: {.column width="30%"}
 </br>
-![](www/hongthong.jpg){height="220px" align="left"}
+![](./www/hongthong.jpg){height="220px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -143,7 +143,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/pho_thien.jpg){height="250px" align="left"}
+![](./www/pho_thien.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -160,7 +160,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/taste_of_thai.jpg){height="260px" align="left"}
+![](./www/taste_of_thai.jpg){height="260px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -178,7 +178,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/chans.jpg){height="250px" align="left"}
+![](./www/chans.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -196,7 +196,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/hk.jpg){height="240px" align="left"}
+![](./www/hk.jpg){height="240px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -214,7 +214,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/itoko.jpg){height="310px" align="left"}
+![](./www/itoko.jpg){height="310px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -232,7 +232,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/koracha.jpg){height="260px" align="left"}
+![](./www/koracha.jpg){height="260px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -250,7 +250,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/ari.jpg){height="250px" align="left"}
+![](./www/ari.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -269,7 +269,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/chicken_salad_chick.jpg){height="300px" align="left"}
+![](./www/chicken_salad_chick.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -287,7 +287,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/slim_chicken.jpg){height="250px" align="left"}
+![](./www/slim_chicken.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -305,7 +305,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/chick_fil_a.jpg){height="300px" align="left"}
+![](./www/chick_fil_a.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -323,7 +323,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/pollo_regio.jpg){height="300px" align="left"}
+![](./www/pollo_regio.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -343,7 +343,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/SWAD.jpg){height="250px" align="left"}
+![](./www/SWAD.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -363,7 +363,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/jersey_mike.jpg){height="300px" align="left"}
+![](./www/jersey_mike.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -381,7 +381,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/salad_and_go.jpg){height="315px" align="left"}
+![](./www/salad_and_go.jpg){height="315px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -401,7 +401,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/tiger_donut.jpg){height="275px" align="left"}
+![](./www/tiger_donut.jpg){height="275px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -419,7 +419,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/first_watch.jpg){height="250px" align="left"}
+![](./www/first_watch.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -438,7 +438,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/cane_rosso.jpg){height="245px" align="left"}
+![](./www/cane_rosso.jpg){height="245px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -456,7 +456,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/mellow_mushroom.jpg){height="300px" align="left"}
+![](./www/mellow_mushroom.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -474,7 +474,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/calabrese.jpg){height="300px" align="left"}
+![](./www/calabrese.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -491,7 +491,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/bosses.jpg){height="260px" align="left"}
+![](./www/bosses.jpg){height="260px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -512,7 +512,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/twisted_root.jpg){height="260px" align="left"}
+![](./www/twisted_root.jpg){height="260px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -530,7 +530,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/gustos.jpg){height="243px" align="left"}
+![](./www/gustos.jpg){height="243px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -548,7 +548,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/aw_shucks.jpg){height="250px" align="left"}
+![](./www/aw_shucks.jpg){height="250px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -571,7 +571,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/melt.jpg){height="305" align="left"}
+![](./www/melt.jpg){height="305" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -591,7 +591,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/guana_bakery.jpg){height="305px" align="left"}
+![](./www/guana_bakery.jpg){height="305px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -611,7 +611,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/las_delicias.jpg){height="160px" align="left"}
+![](./www/las_delicias.jpg){height="160px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -627,7 +627,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/cheesecake.jpg){height="275px" align="left"}
+![](./www/cheesecake.jpg){height="275px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -650,7 +650,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/swig.jpg){height="300px" align="left"}
+![](./www/swig.jpg){height="300px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -671,7 +671,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/race_street.jpg){height="275px" align="left"}
+![](./www/race_street.jpg){height="275px" align="left"}
 :::
 
 ::: {.column width="70%"}
@@ -692,7 +692,7 @@ lightbox:
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](www/main_squeeze.jpg){height="275px" align="left"}
+![](./www/main_squeeze.jpg){height="275px" align="left"}
 :::
 
 ::: {.column width="70%"}
